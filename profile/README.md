@@ -6,7 +6,7 @@ Repositories are organized by prefixes:
 
 **DA: Data Analysis** (for polished protocols, pipelines and scripts)
 
-**PR: Projects ** (for project specific/ungoing work)
+**PR: Projects** (for project specific/ungoing work)
 
 **PU: Publications** (for public repositories included in our publications)
 
