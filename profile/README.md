@@ -15,4 +15,5 @@ For naming new repositories, follow the Pascal_Snake_Case syntax. Example: PR_Au
 
 Our group webpage: **https://sils.uva.nl/content/research-groups/plant-hormone-biology/plant-hormone-biology.html**
 
-![Hippo_JPG-uvalogo_regular_p_nl](https://github.com/SILS-PHB/.github/assets/64014659/9a1c5042-1aa0-4127-b39d-cf6151595776)
+
+![webimage-2B4EA46F-8AAD-4F27-A2ADF4399BF01D0E](https://github.com/SILS-PHB/.github/assets/64014659/ede5f25a-c942-4982-acc4-f85e8fdb9707 =100x100)
