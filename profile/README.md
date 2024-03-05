@@ -10,5 +10,3 @@ PU: Publications
 
 Syntax for naming: Snakecase, example: PR_aaenan_ajnecjb_2021
 
-🍿 Fun facts - peanut butter on toast
-
