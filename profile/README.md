@@ -1,6 +1,7 @@
 ## 🌱 Welcome to the Plant Hormone Biology github 🌱
 
-#Structure
+# Structure
+
 Here, repositories are organized by prefixes:
 
 **DA: Data Analysis** (for polished protocols, pipelines and scripts)
@@ -11,7 +12,7 @@ Here, repositories are organized by prefixes:
 
 For naming new repositories, follow the Pascal_Snake_Case syntax. Example: PR_Author_Projectname_2021
 
-#About us
+# About us
 
 Our group webpage: **https://sils.uva.nl/content/research-groups/plant-hormone-biology/plant-hormone-biology.html**
 
