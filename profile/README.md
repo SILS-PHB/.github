@@ -4,7 +4,7 @@
 
 Here, repositories are organized by prefixes:
 
-**DA: Data Analysis** (for polished protocols, pipelines and scripts)
+**DP: Data Protocols** (for polished protocols, pipelines and scripts)
 
 **PR: Projects** (for project-specific/ungoing work)
 
