@@ -6,7 +6,7 @@ Here, repositories are organized by prefixes:
 
 **DP: Data Protocols** (for polished protocols, pipelines and scripts)
 
-**PR: Projects** (for project-specific/ungoing work)
+**PR: Projects** (for project-specific/ongoing work)
 
 **PU: Publications** (for public repositories included in our publications)
 
